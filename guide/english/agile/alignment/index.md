@@ -3,7 +3,7 @@ title: Alignment
 ---
 ## Alignment
 
-Historically, software development followed a waterfall process which starkly contrasts the agile methodologies that are becoming increasingly used by IT organizations. This contrast has created issues within organizations as teams move to align more closely with agile principles.
+Historically, software development followed a waterfall process which starkly contrasts the agile methodologies that are becoming increasingly used by IT organizations. This contrast has created issues within organizations as teams move to align more closely with agile principles
 
 In waterfall style delivery, requirements are defined in full and upfront prior to beginning development work. An agile team needs to align with changing business requirements to enable the organization to meet changing market demands. Instead of completing all planning up front, the planning remains continuous so that the team remains aligned with the overall business vision.
 
